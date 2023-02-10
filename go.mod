@@ -1,6 +1,6 @@
 module github.com/jimsmart/iri
 
-go 1.19
+go 1.17
 
 require (
 	github.com/onsi/ginkgo v1.16.5
