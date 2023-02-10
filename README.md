@@ -30,4 +30,4 @@ a := iri.RDF_type
 
 ## License
 
-Package iri is copyright 2017-2019 by Jim Smart and released under the [MIT License](LICENSE.md)
+Package iri is copyright 2017-2023 by Jim Smart and released under the [MIT License](LICENSE.md)

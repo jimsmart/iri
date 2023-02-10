@@ -1,14 +1,14 @@
 package iri_test
 
 import (
-	"github.com/jimsmart/rdf/iri"
+	"github.com/jimsmart/iri"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
 
 // Temporarily removed from the project - including these tests
-// just seeme to make it shout even more about the lack of coverage.
+// just seems to make it shout even more about the lack of coverage.
 // They're machine-generated constants, dammit - how do I get coverage for consts?
 // Do I really also have to generate tests that reference each and every one of them? :/
 
